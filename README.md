@@ -1,0 +1,2 @@
+# Heavy-Duty-Vehicle-Management
+The main objective of this project is to design a system for managing the details of heavy-duty vehicles from their pool of vehicles. These heavy-duty vehicles such as Backhoe Loader, Excavator are made available on a rental basis to the customers. Customers can search vehicles based on the type of work and register them by paying the deposit for particular days. Once work is completed, rent will get calculated according to the usage by the customer.
